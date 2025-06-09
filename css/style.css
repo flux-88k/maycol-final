@@ -69,7 +69,7 @@ main {
 
 
 /* PAGES TEXT BLOCKS */
-#acquiring, #implementation, #expanding, #intro {
+#acquiring, #implementation, #expanding, #intro, #references {
   display: flex;
   flex-direction: column; /* This makes them stack vertically */
   align-items: center;    /* This centers them horizontally */
@@ -135,7 +135,7 @@ main {
     margin: 0 auto;
   }
 
-  #acquiring, #implementation, #expanding, #intro {
+  #acquiring, #implementation, #expanding, #intro, #references {
     padding: 20px;
   }
 }
